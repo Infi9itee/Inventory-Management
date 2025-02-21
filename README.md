@@ -11,3 +11,10 @@
 2) Go to **App builer** then select **import**.
 3) Select the **SQL file (f31849)** from this repository.
 4) Click **next** and then **Install** to complete the import.
+
+**Usage**
+1) Log in to the system using admin credentials. (username = 'jamila', password = 'luck'.
+2) Navigate through the Dashboard to manage inventory.
+3) Use the reports section to analyze stock levels.
+
+4) 
