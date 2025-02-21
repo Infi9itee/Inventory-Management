@@ -17,4 +17,3 @@
 2) Navigate through the Dashboard to manage inventory.
 3) Use the reports section to analyze stock levels.
 
-4) 
